@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<headers>10 7A</headers>
+	
+	<ECU name="VAZ">
+		<packet name="start">
+			<Q>81 10 F1 81</Q>
+			<A>83 F1 10 C1 6B 8F</A>
+		</packet>
+		<packet name="param">
+			<Q>82 10 F1 21 01</Q>
+			<A>80 F1 10 22 61 01 08 35 20 0C 40 02 08 01 87 00 12 19 64 3D 3D 8E 02 3C BC 64 B9 06 9A 10 F4 0C 62 01 EA 05 62 C5</A>
+		</packet>
+		<packet name="err">
+			<Q>84 10 F1 18 00 FF 00</Q>
+			<A>82 F1 10 58 00</A>
+		</packet>
+		<packet name="reset">
+			<Q>83 10 F1 14 FF 00</Q>
+			<A></A>
+		</packet>
+		<packet name="ident">
+			<Q>82 10 F1 1A 9A</Q>
+			<A>8A F1 10 5A 9A 4D 31 56 31 33 4F 35 34</A>
+		</packet>
+	</ECU>
+	
+	<ECU name="Almera">
+		<packet name="start">
+			<Q>82 7A F1 10 A0</Q>
+			<A>82 F1 7A 50 A0</A>
+		</packet>
+		<packet name="param">
+			<Q>82 7A F1 21 A9</Q>
+			<A>9A F1 7A 61 A9 00 00 8E 7D 19 55 00 2A 2A 00 19 81 00 00 04 7F 04 7F 00 00 03 D0 03 D0</A>
+		</packet>
+		<packet name="param_2">
+			<Q>82 7A F1 21 AA</Q>
+			<A>8E F1 7A 61 AA 00 00 80 80 80 00 00 4C 00 00 00 00</A>
+		</packet>
+		<packet name="err_codes_1">
+			<Q>82 7A F1 21 A0</Q>
+			<A>89 F1 7A 61 A0 24 24 00 00 00 00 00</A>
+		</packet>
+		<packet name="err_codes_2">
+			<Q>82 7A F1 21 A1</Q>
+			<A>96 F1 7A 61 A1 00 00 00 00 00 00 00 00 00 80 00 00 20 20 20 00 00 00 00 80</A>
+		</packet>
+		<packet name="reset_err">
+			<Q>83 7A F1 14 00 00</Q>
+			<A>83 F1 7A 54 00 00</A>
+		</packet>
+		<packet name="reset_err_2">
+			<Q>83 7A F1 14 FF 00</Q>
+			<A>83 F1 7A 54 FF 00</A>
+		</packet>
+		<packet name="ident">
+			<Q>82 7A F1 21 80</Q>
+			<A>9A F1 7A 61 80 82 00 93 68 26 15 30 30 31 82 00 59 83 93 00 E0 31 00 10 02 9C FF 00 00</A>
+		</packet>
+	</ECU>
+</root>
+
+
+
+
+
+
+
+
+
+
+

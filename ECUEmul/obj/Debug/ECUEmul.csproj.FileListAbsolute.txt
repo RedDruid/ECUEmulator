@@ -1,0 +1,8 @@
+d:\Projects\ECUEmul\ECUEmul\obj\Debug\ECUEmul.Form1.resources
+d:\Projects\ECUEmul\ECUEmul\obj\Debug\ECUEmul.Properties.Resources.resources
+d:\Projects\ECUEmul\ECUEmul\obj\Debug\ECUEmul.csproj.GenerateResource.Cache
+d:\Projects\ECUEmul\ECUEmul\bin\Debug\ECUEmul.exe
+d:\Projects\ECUEmul\ECUEmul\bin\Debug\ECUEmul.pdb
+d:\Projects\ECUEmul\ECUEmul\obj\Debug\ECUEmul.exe
+d:\Projects\ECUEmul\ECUEmul\obj\Debug\ECUEmul.pdb
+D:\Projects\ECUEmul\ECUEmul\obj\Debug\ECUEmul.csprojResolveAssemblyReference.cache
