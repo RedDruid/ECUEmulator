@@ -22,3 +22,5 @@ d:\WORK\Projects\Visual\ECUEmulator\ECUEmul\obj\Debug\ECUEmulator.csprojResolveA
 d:\WORK\Projects\Visual\ECUEmulator\ECUEmul\obj\Debug\ECUEmulator.Form1.resources
 d:\WORK\Projects\Visual\ECUEmulator\ECUEmul\obj\Debug\ECUEmulator.Properties.Resources.resources
 d:\WORK\Projects\Visual\ECUEmulator\ECUEmul\obj\Debug\ECUEmulator.csproj.GenerateResource.Cache
+d:\Projects\ECUEmulator\ECUEmul\obj\Debug\ECUEmulator.exe
+d:\Projects\ECUEmulator\ECUEmul\obj\Debug\ECUEmulator.pdb
